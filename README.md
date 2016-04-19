@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tiny-spring
 =======
 
@@ -23,3 +24,6 @@ tiny-spring
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/code4craft/tiny-spring/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+=======
+# tiny-spring
+>>>>>>> dda2cf3828a7c2af7e4aa39f4f7251c87a5e8bbb
